@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: #ef8c9e;
+    color: rgb(0, 0, 0);
+}
+
+select {
+    padding: 5px;
+}
